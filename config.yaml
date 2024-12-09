@@ -1,0 +1,59 @@
+projectName: >-
+  Hashing algorithms, why they are useful for password hashing and how do they
+  compare with each other
+jsonFilePath: ./input.json
+baseUrl: https://getpicnic.com
+portalHeading: Understanding Hashing Algorithms
+portalDescription: >-
+  Explore the significance of hashing algorithms in password security and their
+  comparative advantages.
+portalTitle: Hashing Algorithms for Secure Passwords
+searchPlaceholder: Search for hashing algorithms...
+useAlphabetsCategory: true
+homeLink: https://getpicnic.com/
+logoLink: https://getpicnic.com/
+ctaText: Get Started
+aboutLink: https://getpicnic.com/about
+productsLink: https://getpicnic.com/products
+logoImgUrl: https://getpicnic.com/logo.png
+ctaLink: https://getpicnic.com/get-started
+copyrightText: © 2023 Picnic. All rights reserved.
+faviconUrl: https://getpicnic.com/favicon.ico
+googleTagManagerId: GTM-XXXXXX
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/getpicnic
+  - platform: LinkedIn
+    url: https://linkedin.com/company/getpicnic
+  - platform: Facebook
+    url: https://facebook.com/getpicnic
+theme:
+  primaryColor: '#007bff'
+  secondaryColor: '#6c757d'
+  backgroundColor: '#f8f9fa'
+  textColor: '#212529'
+  accentColor: '#28a745'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Roboto
+    weights:
+      - 500
+      - 600
+      - 700
